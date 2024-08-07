@@ -4,10 +4,11 @@ Welcome to my GitHub profile! I'm passionate about the world of technology and c
 - 🌱 Currently, I’m immersing myself in [specific technologies or skills you're learning, e.g., React, machine learning, cloud computing]. My goal is to master these skills and apply them to create impactful projects.
 - 💞️ I’m looking to collaborate on exciting projects where I can contribute my skills and learn from others. Whether it's a challenging coding problem or a groundbreaking idea, I’m always up for collaboration.
 - 📫 Feel free to connect with me via:
-<br> My website: mpastuhov.site
+<br> My website:  https://mpastuhov.site
 <br>Telegram: https://t.me/Doctor_Robotnik
 <br>Email: maksimpastuhov77@gmail.com
 <br>I’m always open to new opportunities and interesting conversations.
+<button></button>
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: I am looking for a job in a European IT company, if you have a suggestion, write, I will be glad to work with you!
 
