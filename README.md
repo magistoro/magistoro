@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about the world of technology and c
 - 💞️ I’m looking to collaborate on exciting projects where I can contribute my skills and learn from others. Whether it's a challenging coding problem or a groundbreaking idea, I’m always up for collaboration.
 - 📫 Feel free to connect with me via:
 <br> My website:  https://hasumage.ru
-<br>Telegram: https://t.me/Doctor_Robotnik
+<br>Telegram: https://t.me/Hasumage
 <br>Email: maksimpastuhov77@gmail.com
 <br>I’m always open to new opportunities and interesting conversations.
 - 😄 Pronouns: he\him
